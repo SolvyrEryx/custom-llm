@@ -25,6 +25,8 @@ Contributions are welcome! Please see CONTRIBUTING.md for guidelines.
 This project is licensed under the MIT License - see LICENSE file for details.
 
 ## 🙏 Acknowledgments
+
+- 🔧 **Code Fixes, Stability Improvements & Optimizations**: [@SolvyrEryx](https://github.com/SolvyrEryx) - Major role in fixing and debugging the code, improving stability and functionality
 - 🎨 **Visual Design & Polish**: [@SolvyrEryx](https://github.com/SolvyrEryx) - Enhanced animations, glassmorphism effects, and modern UI elements
 - 📝 **Original Implementation**: [@AnishVyapari](https://github.com/AnishVyapari) - Core LLM architecture and training pipeline
 - 📚 Inspired by the original Transformer paper "Attention Is All You Need"
@@ -39,7 +41,7 @@ For questions or feedback, join our [Discord](https://discord.gg/dzsKgWMgjJ) or 
 
 ## 🤝 Connect with me
 
-**Credits**: Special thanks to [@SolvyrEryx](https://github.com/SolvyrEryx) for design enhancements!
+**Credits**: Special thanks to [@SolvyrEryx](https://github.com/SolvyrEryx) for code fixes, stability improvements, optimizations, and design enhancements!
 
 **LinkedIn**: Connect with me on [LinkedIn](https://www.linkedin.com/in/rahulj7777/)
 
@@ -48,7 +50,7 @@ For questions or feedback, join our [Discord](https://discord.gg/dzsKgWMgjJ) or 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20,24&height=120&section=footer" width="100%"/>
   <br><br>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Built+with+PyTorch+🔥;Designed+by+SolvyrEryx+🎨;100%25+Local+AI+🤖;No+API+Keys+Required+✨" alt="Footer Animation">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Built+with+PyTorch+🔥;Code+fixes+by+SolvyrEryx+🔧;Designed+by+SolvyrEryx+🎨;100%25+Local+AI+🤖;No+API+Keys+Required+✨" alt="Footer Animation">
   <br><br>
   <strong>Made with ❤️ by the Custom LLM Team</strong>
 </p>
