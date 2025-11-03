@@ -217,7 +217,7 @@ For questions or feedback, join our Discord: https://discord.gg/dzsKgWMgjJ or op
 
 ## Connect
 - Credits: Special thanks to [@SolvyrEryx](https://github.com/SolvyrEryx) for code fixes, stability, optimizations, and design enhancements
-- LinkedIn: https://www.linkedin.com/in/rahulj7777/
+- Connect: https://guns.lol/ineffablebeast
 
 ---
 
